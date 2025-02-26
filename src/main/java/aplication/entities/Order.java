@@ -37,7 +37,7 @@ public class Order {
     }
 
     public boolean resposta() {
-        return (status == null);
+        return (status == OrderStatus.PENDING_PAYMET);
     }
 
     public void showResult(Boolean resultadoPedido, OrderStatus os1) {
