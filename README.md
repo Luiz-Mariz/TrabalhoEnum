@@ -1,6 +1,6 @@
 # Cadastro de Produtos
 
-Este repositório contém um sistema simples para cadastro e gerenciamento de produtos. O objetivo do código é permitir que os usuários possam cadastrar produtos e verificar sua existência em um arquivo de texto, simulando um processo de controle de estoque.
+Este repositório contém um sistema simples para cadastro e gerenciamento de produtos. O objetivo do código é permitir que os usuários possam cadastrar produtos e verificar sua existência em um arquivo de texto, simulando um processo de uma empresa do ramo de entregas .
 
 ## Funcionalidade
 
